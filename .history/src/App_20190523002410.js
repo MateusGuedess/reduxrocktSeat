@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar'
 import Video from './components/Video'
 
 import { Provider } from 'react-redux'
-import store from './store'
+import Store from './store'
 
 function App() {
   return (
